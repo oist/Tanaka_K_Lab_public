@@ -7,38 +7,32 @@ This space provides access to open-source tools and software developed for behav
 
 ---
 
-## 🔬 Available Software
+## Available Software
 
 ### **HIBER**  
 **H**eat **I**nformation and **Be**havior **R**ecorder
 
-A software tool designed for synchronized recording and analysis of temperature and behavioral data.
+This software is designed for synchronized recording and of temperature and behavioral data in hibernating mice. 
+It accepts multiple thermo-cameras( tested up to 4 ) and each camera can have its field of view split in 3 independent sub-regions to increase the number of simultaneous recordings.
 
 ---
 
-## 🧩 Development
+## Development
 
 HIBER is developed using the following frameworks and libraries:
-
-- [Qt Framework](https://www.qt.io/product/framework) — for the graphical user interface  
-- [QCustomPlot](https://www.qcustomplot.com/) — for high-quality data visualization and plotting  
-- [OpenCV](https://opencv.org/) — for image and video processing  
+- [Qt Framework](https://www.qt.io/product/framework) 
+- [QCustomPlot](https://www.qcustomplot.com/)           
+- [OpenCV](https://opencv.org/)                       
 
 ---
 
-## 📘 License & Citation
+## License & Citation
 
-Please check individual software folders for specific license information and citation guidelines.  
 If you use this software in your research, we kindly ask that you cite the corresponding publication or repository link.
 
 ---
 
-## 🧠 Contact
+## Contact
 
 Tanaka K. Laboratory  
 Okinawa Institute of Science and Technology (OIST)  
-📧 *[Add your contact email or webpage here]*  
-
----
-
-> *This repository is part of the Tanaka K. Lab’s commitment to open and reproducible neuroscience research.*
